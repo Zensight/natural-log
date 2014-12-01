@@ -47,5 +47,11 @@
         <url>http://github.com/zensight/natural-log</url>
     </scm>
 
-
+    <distributionManagement>
+       <repository>
+         <id>clojars.org</id>
+         <name>Clojars</name>
+         <url>https://clojars.org/repo</url>
+       </repository>
+    </distributionManagement>
 </project>
